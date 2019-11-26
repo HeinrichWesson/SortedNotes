@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SortedNotes</string>
+    <string name="add_new_note_hint">Type your note here</string>
+</resources>
